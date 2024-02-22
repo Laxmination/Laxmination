@@ -75,8 +75,7 @@ Hello, Here I am Laxmi Kathayat (Anonymous), a front-end Developer from Parashur
 <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww.gnu.org%2Fsoftware%2Fbash%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fexpressjs.com%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div> -->
-<!-- 
-</td></tr></table>   -->
+</td></tr></table> 
 
 <br/>  
 
