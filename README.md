@@ -84,19 +84,19 @@ Hello, Here I am Laxmi Kathayat (Anonymous), a front-end Developer from Parashur
 
 ## Connect with me  
 <div align="center">
-<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fgithub.com%2Fmeprazhant" target="_blank">
+<a href="https://github.com/Laxmination" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style=" 5px;" />
 </a>
-<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Ftwitter.com%2Fprashantjr2" target="_blank">
+<a href="https://twitter.com/LaxmiKathayat3" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style=" 5px;" />
 </a>
-<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Flinkedin.com%2Fin%2Fmeprazhant" target="_blank">
+<a href="https://www.linkedin.com/in/laxmi-kathayat/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style=" 5px;" />
 </a>
-<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww.facebook.com%2Fprashant.0413" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=100080291097517" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style=" 5px;" />
-</a>
-<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Finstagram.com%2Fprashant.0412" target="_blank">
+</a>2
+<a href="https://www.instagram.com/lakshmi.kathayat04/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style=" 5px;" />
 </a>  
 </div>  
@@ -106,14 +106,14 @@ Hello, Here I am Laxmi Kathayat (Anonymous), a front-end Developer from Parashur
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=meprazhant&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=laxmination&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
 
 <br/>
 
 ## Language I use Most
 
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical  -->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meprazhant&theme=radical" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmination&theme=radical" align="center" /></div>  
 
 <br />
 ## Streak and Contributions
@@ -122,5 +122,5 @@ Hello, Here I am Laxmi Kathayat (Anonymous), a front-end Developer from Parashur
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=meprazhant&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=laxmination&&style=flat-square" align="center" />
 </div>  
