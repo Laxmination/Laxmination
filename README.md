@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <h2 align="center" style="width: 100%;padding:10px;" >Hello, Strangers!!!</h2>
 </div>  
   
-
-Hello, Here I am Laxmi Kathayat (Anonymous), a front-end Developer from Parashuram 01, Dadeldhura, Nepal. I am aspired to study AI and Data Science.Currently I am doing web-development. 
+   Here I am Laxmi Kathayat (Anonymous), a front-end Developer from Parashuram 01, Dadeldhura, Nepal. I am aspired to study AI and Data Science.Currently I am doing web-development. 
   
 
 <br/>  
