@@ -125,5 +125,5 @@ Hello, Here I am Laxmi Kathayat (Anonymous), a front-end Developer from Parashur
 <br/>   
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=meprazhant&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=laxmination&&style=flat-square" align="center" />
 </div>  
