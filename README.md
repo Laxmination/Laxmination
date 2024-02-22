@@ -115,11 +115,11 @@ Hello, Here I am Laxmi Kathayat (Anonymous), a front-end Developer from Parashur
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=laxmination&theme=radical   -->
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmination&theme=radical" align="center" /></div>  
 
-<!-- <br />
+<br />
 ## Streak and Contributions
 
 
-<br/>   -->
+<br/>   
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=laxmination&&style=flat-square" align="center" />
