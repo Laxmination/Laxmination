@@ -95,7 +95,7 @@ Hello, Here I am Laxmi Kathayat (Anonymous), a front-end Developer from Parashur
 </a>
 <a href="https://www.facebook.com/profile.php?id=100080291097517" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style=" 5px;" />
-</a>2
+</a>
 <a href="https://www.instagram.com/lakshmi.kathayat04/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style=" 5px;" />
 </a>  
@@ -112,7 +112,7 @@ Hello, Here I am Laxmi Kathayat (Anonymous), a front-end Developer from Parashur
 
 ## Language I use Most
 
-<!--https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical  -->
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=laxmination&theme=radical   -->
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmination&theme=radical" align="center" /></div>  
 
 <br />
