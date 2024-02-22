@@ -34,13 +34,13 @@ Hello, Here I am Laxmi Kathayat (Anonymous), a front-end Developer from Parashur
 <div align="center">  
 <!-- <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Freactjs.org%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fgetbootstrap.com%2Fdocs%2F3.4%2Fjavascript%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>   -->
-<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww.w3schools.com%2Fcss%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML5" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww.javascript.com%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.w3schools.com/css/default.asp" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.w3schools.com/html/default.asp" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/js/default.asp" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <!-- <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww.adobe.com%2Fin%2Fproducts%2Fillustrator.html" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>   -->
-<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww.cprogramming.com%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.w3schools.com/c/index.php" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <!-- <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww.linux.org%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>   -->
-<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww.figma.com%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <!-- <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fjquery.com%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fnextjs.org%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww.tailwindcss.com%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>   -->
@@ -53,15 +53,15 @@ Hello, Here I am Laxmi Kathayat (Anonymous), a front-end Developer from Parashur
 
 ### Backend  
 <div align="center">  
-<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww.javascript.com%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <!-- <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww%2A.%2Aphp.net%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww.mongodb.com%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>   -->
-<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fnodejs.org%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <!-- <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww.linux.org%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>   -->
-<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww.python.org%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <!-- <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fexpressjs.com%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>   -->
-<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fgithub.com%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww.gnu.org%2Fsoftware%2Fbash%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <!-- <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww.apachefriends.org%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Ffirebase.google.com%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>   -->
 </div>
