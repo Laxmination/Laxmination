@@ -111,25 +111,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=laxmination)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-name: Update Streak
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  update-streak:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Update Streak
-        uses: sallar/github-contributions-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=laxmination&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
