@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 <br/> 
 # My Profile
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=laxmination)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 
