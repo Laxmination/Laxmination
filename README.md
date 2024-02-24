@@ -106,7 +106,8 @@ Here are some ideas to get you started:
   
 
 <br/> 
-# My Profile
+
+## My Profile
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=laxmination)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
