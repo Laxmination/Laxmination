@@ -107,10 +107,6 @@ Here are some ideas to get you started:
 
 <br/> 
 
-# My Profile
-
-[![GitHub Streak](https://github.com/Laxmination)](https://github.com/Laxmination)
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=laxmination&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
