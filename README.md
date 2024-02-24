@@ -101,10 +101,34 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/lakshmi.kathayat04/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style=" 5px;" />
 </a>  
-</div>  
+</div> 
+
   
 
-<br/>  
+<br/> 
+
+# My Profile
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=laxmination)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+name: Update Streak
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update Streak
+        uses: sallar/github-contributions-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
 ## Github Stats  
