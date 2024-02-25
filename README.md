@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Laxmination&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=20" height="175" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Laxmination&locale=en&mode=daily&theme=Blue&hide_border=true&border_radius=10" height="175" alt="streak graph"  />
  
 </div>
 
@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 
 
 
-## Github Stats  
+## MY Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=laxmination&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
 
 <br/>
