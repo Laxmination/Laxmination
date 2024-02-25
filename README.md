@@ -107,11 +107,15 @@ Here are some ideas to get you started:
 
 <br/> 
 
-## My GitHub Streak
+## My GitHub Streak, Contributions and Profile views
 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Laxmination&locale=en&mode=daily&theme=cobalt2&hide_border=false&border_radius=10" height="175" alt="streak graph"  />
+
+  <div align="center">
+<img src="https://komarev.com/ghpvc/?username=laxmination&&style=flat-square" align="center" />
+</div>
  
 </div>
 
@@ -120,7 +124,7 @@ Here are some ideas to get you started:
 
 
 ## MY Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=laxmination&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=laxmination&show_icons=true&count_private=true&hide_border=true&theme=cobalt2&hide_border=false&border_radius=10" align="center" /></div>  
 
 <br/>
 
@@ -131,11 +135,3 @@ Here are some ideas to get you started:
 
 <br />
 
-## Streak and Contributions
-
-
-<br/>   
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=laxmination&&style=flat-square" align="center" />
-</div>  
