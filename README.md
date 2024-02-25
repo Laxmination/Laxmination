@@ -86,14 +86,14 @@ Here are some ideas to get you started:
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Laxmination" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style=" 5px;" />
+<a href="https://leetcode.com/laxmi_Kathayat--4/" target="_blank">
+<img src=https://img.shields.io/badge/leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style=" 5px;" />
 </a>
 <a href="https://twitter.com/LaxmiKathayat3" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style=" 5px;" />
 </a>
 <a href="https://www.kaggle.com/laxmikathayat" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2300acee.svg?&style=for-the-badge&logo=kaggle&logoColor=blue alt=kaggle style=" 5px;" />
+<img src=https://img.shields.io/badge/kaggle-%2300acee.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style=" 5px;" />
 </a> 
 <a href="https://www.facebook.com/profile.php?id=100080291097517" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style=" 5px;" />
