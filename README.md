@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Laxmination&locale=en&mode=daily&theme=Blue&hide_border=true&border_radius=10" height="175" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Laxmination&locale=en&mode=daily&theme=cobalt2&hide_border=false&border_radius=10" height="175" alt="streak graph"  />
  
 </div>
 
