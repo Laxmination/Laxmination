@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style=" 5px;" />
 </a>
 <a href="https://www.kaggle.com/laxmikathayat" target="_blank">
-<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4373210%2Fkaggle_logo_logos_icon&psig=AOvVaw1G2VF7sdW7WKXH9lA_yydZ&ust=1708935863786000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCkgKuIxoQDFQAAAAAdAAAAABAE alt=kaggle style=" 5px;" />
+<img src=https://img.shields.io/badge/kaggle-%2300acee.svg?&style=for-the-badge&logo=kaggle&logoColor=blue alt=kaggle style=" 5px;" />
 </a> 
 <a href="https://www.facebook.com/profile.php?id=100080291097517" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style=" 5px;" />
