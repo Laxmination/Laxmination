@@ -131,7 +131,7 @@ Here are some ideas to get you started:
 ## Language I use Most
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=laxmination&theme=radical   -->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmination&theme=radical" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmination&theme=cobalt2&radius=10" align="center" /></div>  
 
 <br />
 
