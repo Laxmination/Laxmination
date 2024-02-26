@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 <h2 align="center" style="width: 100%;padding:10px;" >Hello, Coders!!!</h2>
 </div>  
   
-   Here I am Laxmi Kathayat (Anonymous), a front-end Developer from Parashuram 01, Dadeldhura, Nepal. I am aspired to study AI and Data Science.Currently I am doing web-development. 
-  
+   Here I am Laxmi Kathayat (Anonymous), a front-end Developer from Parashuram 01, Dadeldhura, Nepal. I am aspired to study AI and Data Science.Currently I am doing web-development. <br>
+
+   - 🔭 I’m currently working on MaatriSahara
+   - 🌱 I’m currently learning Python 
+   - ⚡ Fun fact: You 
+      
 
 <br/>  
 
