@@ -18,17 +18,15 @@ Here are some ideas to get you started:
 <h2 align="center" style="width: 100%;padding:10px;" >Hello, Coders!!!</h2>
 </div>  
   
-   Here I am Laxmi Kathayat (Anonymous), a front-end Developer from Parashuram 01, Dadeldhura, Nepal. I am aspired to study AI and Data Science.Currently I am doing web-development. <br>
-
-   - 🔭 I’m currently working on MaatriSahara
+   Here I am Laxmi Kathayat (Anonymous), a front-end Developer from Parashuram 01, Dadeldhura, Nepal. I am aspired to study AI and Data Science.Currently I am doing web-development. <br><br>
    - 🌱 I’m currently learning Python 
-   - ⚡ Fun fact: You 
+   - ⚡ Fun fact: I am not ChatGPT
       
 
 <br/>  
 
 
-### My Skill Set  
+## My Skill Set  
 <div align ="center">  
 <a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww%2A.%2AC.net%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -43,7 +41,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-### Connect with me  
+## Connect with me  
 <div align="center">
 <a href="https://leetcode.com/laxmi_Kathayat--4/" target="_blank">
 <img src=https://img.shields.io/badge/leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style=" 5px;" />
@@ -66,7 +64,7 @@ Here are some ideas to get you started:
 
 <br/> 
 
-### My GitHub Streak, Contributions and Profile views
+## My GitHub Streak, Contributions and Profile views
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Laxmination&locale=en&mode=daily&theme=cobalt2&hide_border=false&border_radius=10" height="175" alt="streak graph"  />
@@ -81,12 +79,12 @@ Here are some ideas to get you started:
 
 
 
-### MY Github Stats  
+## MY Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=laxmination&show_icons=true&count_private=true&hide_border=true&theme=cobalt2&hide_border=false&border_radius=10" align="center" /></div>  
 
 <br/>
 
-### Language I use Most
+## Language I use Most
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmination&theme=cobalt2&radius=10" align="center" /></div>  
 
 <br />
