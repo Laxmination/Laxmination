@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ## My Skill Set  
 <div align="center">  
 <a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<!-- <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww%2A.%2Aphp.net%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww.mongodb.com%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>   -->
-<a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww%2A.%2AC.net%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww.cpp.com%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/cpp-original-wordmark.svg" alt="C++" height="50" /></a>   
+<!-- <a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> -->
 <!-- <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww.linux.org%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>   -->
 <a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <!-- <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fexpressjs.com%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>   -->
