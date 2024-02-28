@@ -20,14 +20,14 @@ Here are some ideas to get you started:
   
    Here I am Laxmi Kathayat (Anonymous), a front-end Developer from Parashuram 01, Dadeldhura, Nepal. I am aspired to study AI and Data Science.Currently I am doing web-development. <br><br>
    - 🌱 I’m currently learning Python 
-   - ⚡ Fun fact: I am not ChatGPT
+   - ⚡ Fun fact: I am not ChatGPT and pronouns are not important for coding hehehe.
       
 
 <br/>  
 
 
 ## My Skill Set  
-<div align ="center">  
+<div align="center">  
 <a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww%2A.%2AC.net%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
