@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 ## My Skill Set  
-<table align= "centre"><tr><td valign="top" width="33%">
+<table align= "centre"><tr align= "centre"><td valign="top" width="33%" align= "centre">
 <div align="center">  
 <a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <!-- <a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww%2A.%2Aphp.net%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
