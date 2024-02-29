@@ -70,9 +70,8 @@ Here are some ideas to get you started:
    <img src="https://streak-stats.demolab.com?user=Laxmination&locale=en&mode=daily&theme=cobalt2&hide_border=false&border_radius=10" alt="streak graph">
 
 
-
-  <div align="center">
-<img src="https://komarev.com/ghpvc/?username=laxmination&&style=flat-square" align="center" />
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Laxmination&&style=flat-square" align="center" />
 </div>
  
 </div>
