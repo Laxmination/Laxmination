@@ -73,7 +73,6 @@ Here are some ideas to get you started:
 # MY Github Stats 
 <div align ="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Laxmination&show_icons=true&count_private=true&hide_border=true&theme=radical"/>
-<img src="https://komarev.com/ghpvc/?username=Laxmination&&style=flat-square"/>
 </div>  
 
 
