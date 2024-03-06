@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 <br/> 
 
 
-## MY Github Stats  
-<div align="center">
- <img src="https://streak-stats.demolab.com?user=Laxmination&locale=en&mode=daily&theme=red&hide_border=true&border_radius=20" height="175" alt="streak graph" style="border-radius: 20px; border: 1px solid #ddd;">
+## MY Github Stats 
+<div>
+<img src="https://streak-stats.demolab.com?user=Laxmination&locale=en&mode=daily&theme=react&hide_border=true&border_radius=20" height="175" alt="streak graph" style="border-radius: 20px; border: 1px solid #ddd;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Laxmination&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=Laxmination&show_icons=true&count_private=true&hide_border=true&theme=radical"/></div>  
 
 
 <br/>
