@@ -64,11 +64,13 @@ Here are some ideas to get you started:
 
 <br/> 
 
-
-## MY Github Streak, Stats and Profile views
-<div align ="centre">
+# My Github Streak and profile views
+<div align = "center">
 <img src="https://streak-stats.demolab.com?user=Laxmination&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=10" height="175" alt="streak graph" style="border-radius: 20px; border: 1px solid #ddd;">
-
+<img src="https://komarev.com/ghpvc/?username=Laxmination&&style=flat-square"/>
+</div>
+## MY Github Stats 
+<div align ="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Laxmination&show_icons=true&count_private=true&hide_border=true&theme=radical"/>
 <img src="https://komarev.com/ghpvc/?username=Laxmination&&style=flat-square"/>
 </div>  
