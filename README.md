@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## My Skill Set  
 <div align="center">  
 <a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://justpaste.it/redirect/5r8ji/https%3A%2F%2Fwww%2A.%2AC.net%2F" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
 <a href="#" target="_blank"><img style=" 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
